@@ -5,33 +5,6 @@ Kali Linux 2021.3 Latest Version
 Debian
 UPDATED
 
-LAPTOP CONFIG:
-
-SSID:	MySpectrumWiFie8-5G
-Protocol:	Wi-Fi 5 (802.11ac)
-Security type:	WPA2-Personal
-Network band:	5 GHz
-Network channel:	157
-Link speed (Receive/Transmit):	650/650 (Mbps)
-IPv6 address:	2603:6081:7340:54:a9fc:b4bc:b5c8:70b7
-Link-local IPv6 address:	fe80::a9fc:b4bc:b5c8:70b7%19
-IPv4 address:	192.168.1.164
-IPv4 DNS servers:	192.168.1.1
-Manufacturer:	Intel Corporation
-Description:	Intel(R) Wi-Fi 6 AX201 160MHz
-Driver version:	21.70.0.6
-Physical address (MAC):	8C-8D-28-31-A9-34
-
-ifconfig for pi: 192.168.1.3
-
-
-#Moxxi39630193
-
-
-SHASUM/KEY FOR PI VERSION OF KALI:
-SHA256sum:
-
-5d36fdc4ddf8d27d407ef85a074f6f981c13e0a7abaca859af0c38eea8e8f1f0
 
 ERASE KEYS:
 
